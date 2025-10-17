@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sara EL AMRANI
 
-<!--
-**SaraElAmrani/SaraElAmrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** | 💻 **Spring Boot & React Developer**
 
-Here are some ideas to get you started:
+🌟 Passionate about creating modern web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- Java, Spring Boot  
+- React, HTML, CSS, JavaScript  
+- MySQL, phpMyAdmin  
+- Git & GitHub  
+
+### 💼 Projects
+- 🏢 **ES-CoWork** – Web platform for coworking space management  
+- 🌐 **E-commerce site** – Admin & Customer dashboards using Spring Boot  
+
+📫 **Connect with me:**
+[LinkedIn](https://www.linkedin.com/in/sara-el-amrani-4619041a6/) | [Portfolio](https://elamranisara.com/)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraElAmrani&show_icons=true&theme=radical)
