@@ -135,13 +135,21 @@ I love building **smart, scalable applications** that combine **AI**, **Full Sta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/><br>Grafana
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br>AWS
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40"/><br>AWS
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 Data Visualization & Analytics  
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40"/><br>Power BI
 </td>
 <td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>Power BI
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/><br>Tableau
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/><br>Tableau
 </td>
 </tr>
 </table>
